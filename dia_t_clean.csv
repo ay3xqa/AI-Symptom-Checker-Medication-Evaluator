@@ -1,0 +1,1167 @@
+did,diagnose,description
+1,Abdominal Aortic Aneurysm,enlarged major blood vessel
+2,Abdominal Swelling,
+3,Abdominal Trauma,
+4,Abrasions,scrapes
+5,ACE Inhibitor Induced Cough,blood pressure medication side effect/Drug-induced cough/Drug reaction: ACE inhibitor
+6,Acetaminophen Overdose,adverse reaction to acetaminophen
+7,Acetaminophen Poisoning,Tylenol poisoning
+8,Achilles Tendonitis,heel tendon inflammation
+9,Achilles Tendon Rupture,heel tendon tear
+10,Acid Abuse,LSD abuse
+11,Acidosis,excessive acid in the body
+12,Acoustic Neuroma,ear nerve tumor
+13,Acromioclavicular Joint Separation,AC joint separation/closed separation of acromioclavicular joint
+14,Acute Angle Closure Glaucoma,increased inner eye pressure
+15,Acute Fatty Liver of Pregnancy,
+16,Adenoiditis,a type of lymph node inflammation
+17,Adenovirus Infection,virus infection
+18,Frozen Shoulder,adhesive capsulitis of shoulder
+19,Adjustment Disorder,poor adjustment to life stressor
+20,Ethanol Intoxication,Alcohol
+21,Ethanol Abuse,Alcohol
+22,Ethanol Poisoning,Alcohol overdose
+23,Alcohol Withdrawal Syndrome,mild
+25,Alcoholism,
+26,Allergic Reaction,
+27,Allergic Rhinitis,allergic reaction in the nose
+28,Allergy,
+29,Confusion,altered mental status
+30,Altered Mental Status,confusion
+31,Altitude Illness,illnesses due to high altitude effects
+32,Amebiasis,ameba infection
+33,Amphetamine Abuse,
+34,Amphetamine Overdose,
+36,Anal Fissure,tear
+37,Anaphylactoid Reactions,pseudo allergic reaction
+38,Anaphylaxis,severe/life threatening allergic reaction
+39,Anemia,low red blood cell count
+40,Ankle Laceration,cut in skin
+41,Ankle Swelling,
+42,Ankylosing Spondylitis,severe spine arthritis
+43,Anopheles,mosquito bite
+44,Anorectal Abscess,perirectal abscess
+45,Anorexia,eating disorder
+46,Anorexia Nervosa,eating disorder
+47,Ant Bite,
+48,Anticholinergic Drug Overdose,
+49,Antidepressant Overdose,
+50,Anxiety,
+51,Anxiety Disorder,generalized anxiety disorder (GAD)
+52,Aortic Valve Stenosis,tight heart valve
+54,Aphthous Ulcers,mouth stomatitis
+55,Aplastic Anemia,bone marrow failure
+56,Appendicitis,
+57,Arm Laceration,skin cut
+58,Arm Swelling,
+59,Arrhythmia,abnormal heart rhythm
+60,Arteriovenous Malformation,"blood vessel abnormality, AVM"
+61,Arthritis,joint inflammation
+62,Aseptic Joint Effusion,fluid in a joint/Effusion of joint
+63,Aseptic Necrosis of Bone,bone death and destruction
+64,Salicylates Overdose,Aspirin overdose
+65,Asthma,
+66,Eczema,Atopic Dermatitis
+67,Atrial Fibrillation,irregular heart rate
+68,AV Heart Block,Atrioventricular node conduction block (heart block)
+69,Atypical Pneumonia,lung infection
+70,Autoimmune Conditions,
+71,Autoimmune Disease,
+72,Avulsions,forcible tissue detachment
+73,Back Trauma,injury
+74,Bacterial Dysentery,bacterial infection of the intestines
+75,Bacterial Infection,
+76,Bacterial Overgrowth Syndrome,Bacterial Overgrowth of Small Intestine
+77,Bacterial Vaginosis,vaginal infection
+78,Baker's Cyst,fluid sac behind knee
+79,Balanitis,penis swelling
+80,Barrett's Esophagus,esophagus inflammation
+81,Bartholin Abscess or Cyst,sac of pus near the vaginal opening
+82,Basilar Artery Migraine,headache
+83,Basilar Skull Fracture,broken skull
+84,Beta Blocker Overdose,blood pressure medication overdose
+85,Behçet's Disease,small blood vessel inflammation disorder
+86,Bee Sting,wasp sting
+87,Bell's Palsy,facial muscle weakness
+88,Benign Positional Vertigo,sensation of spinning
+89,Benign Prostatic Hyperplasia,prostate enlargement
+90,Valium Abuse,Benzodiazepine
+91,Valium Overdose,Benzodiazepine
+93,Bipolar Disorder,manic depressive disorder
+94,Black Widow Spider Bite,
+95,Bladder Cancer,
+96,Bladder Stone,urinary
+97,Bleeding Tendency,bleeding disorder
+98,Blepharitis,eyelid swelling
+99,Blood Loss,
+101,Body Dysmorphic Disorder,body appearance obsession
+102,Bone Metastases,cancer spread to bone
+103,Botulism,bacterial toxin causing muscle weakness
+105,Bradycardia,slow heart rate
+106,Brain Abscess,collection of pus in the brain
+107,Brain Tumor,cancer of the brain
+108,Breast Abscess,collection of pus in the breast
+109,Breast Cancer,
+110,Breast Fat Necrosis,dead breast fat
+111,Breast Fibroadenoma,benign breast lumps
+112,Bronchial Asthma,
+113,Bronchiectasis,bronchial tube inflammatory damage
+114,Bronchiolitis,bronchial tube inflammation
+115,Bronchitis,bronchial tube infection
+116,Brown Recluse Spider Bite,
+117,Bulimia Nervosa,"binge eating, vomiting"
+118,Burkitt Lymphoma,lymph node tumor
+119,Burning Mouth Syndrome,
+120,Burns,
+121,Bursitis,inflammation of joint cushion
+122,Caffeine Use,
+123,Calcium Channel Blocker Overdose,blood pressure medication overdose
+124,Calluses and Corns,
+125,Campylobacter Infection,intestinal bacterial infection
+126,Cancer,tumor
+127,Candida Albicans,yeast infection
+128,Carbon Monoxide Poisoning,"odorless, poisonous gas"
+129,Cardiac Arrhythmia,abnormal heart rate
+130,Cardiomyopathy,weakened heart
+131,Carotid Artery Dissection,neck artery tear
+132,Carotid Cavernous Fistula,abnormal blood vessel communication
+133,Carpal Tunnel Syndrome,wrist nerve compression
+134,Spinal Cord Compression,cauda equina syndrome
+135,Cavernous Sinus Aneurysm,head vein dilation
+136,Cavernous Sinus Thrombosis,head vein blood clot
+137,Cavernous Sinus Tumor,head vein cancer
+138,Cavity,tooth caries
+139,Celiac Disease,celiac sprue
+140,Cellulitis,skin infection
+142,Cerebellar Hemorrhage,bleeding in back of brain
+143,Cerebellar Syndrome,loss of coordination
+144,Cerebral Contusion,bruise of brain
+145,Cerebral Palsy,movement disorder
+146,Cerebral Vascular Accident,stroke
+147,Cerebrospinal Fluid Rhinorrhea,leakage of brain fluid from the nose
+148,Cerumen Impaction,ear wax buildup
+149,Cervical Cancer,tumor
+150,Cervical Lymphadenopathy,enlarged neck lymph nodes
+151,Cervical Radiculopathy,pinched nerve in neck
+152,Cervical Spine Fracture,broken neck bone
+153,Cervical Spondylosis,neck arthritis
+154,Cervicitis,inflammation of the lower uterus
+155,Chagas Disease,trypanosomiasis
+158,Chest Trauma,injury
+159,Child Abuse,
+160,Chlamydia Trachomatis Infection,STD
+161,Chlorine Bleach Ingestion,
+162,Cholangitis,inflammation of the bile ducts
+163,Cholecystitis,inflammation of the gallbladder
+164,Choledocholithiasis,stone in bile duct
+165,Cholelithiasis,gallstones
+166,Cholera,intestinal bacterial infection
+167,Cholesteatoma,middle ear mass
+168,Chronic Fatigue Syndrome,CFS
+169,Chronic Liver Disease,
+170,Chronic Obstructive Pulmonary Disease,"COPD, emphysema"
+171,Chronic Pain,
+172,Cirrhosis,liver failure and scarring
+173,Cluster Headache,one-sided headache behind the eye
+174,Coarctation of Aorta,narrowing of the aorta
+175,Cocaine Abuse,
+176,Cocaine Overdose,
+177,Colic,prolonged infant crying episodes
+178,Colitis,large intestine inflammation
+179,Colonic Diverticulitis,inflammation of pouches in the large intestine
+180,Colon Cancer,large intestine tumor
+181,Common Cold,upper respiratory infection
+182,Common Spider Bite,pider bite
+183,Compartment Syndrome,increased pressure inside muscles
+184,Concussion,
+185,Congestive Heart Failure,CHF
+186,Conjunctivitis,pink eye
+187,Constipation,
+188,Contact Dermatitis,contact skin irritation
+189,Poison Ivy,"poison oak, poison sumac"
+190,Hives,Contact Urticaria
+191,Contusion,"bruise, ecchymosis"
+192,Corneal Abrasion,scrape on eye
+193,Corneal Foreign Body,object in the eye
+194,Coronary Artery Dissection,heart artery tear
+195,Costochondritis,chest wall inflammation
+196,Cough Medicine Abuse,
+197,Crohn's Disease,"regional enteritis, Crohn's colitis, intestinal inflammation"
+198,Cryptosporidium Infection,diarrheal parasite infection/Infection by Cryptosporidium/Cryptosporidiosis infection/Infection by Cryptosporidium parvum
+199,Cushing Disease,excessive pituitary gland hormones
+200,Cutaneous Larva Migrans,parasitic skin disease
+201,Cystocele,bladder hernia
+202,Cytomegalovirus Infection,CMV viral infection
+203,De Quervain's Tenosynovitis,hand tendon inflammation
+204,Deep Venous Thrombosis,"DVT, venous blood clot"
+205,Dehydration,
+206,Delirium Tremens,severe alcohol withdrawal
+207,Dementia,decline in mental ability
+208,Dengue Fever,tropical mosquito borne illness
+209,Dental Abscess,tooth infection
+210,Dental Eruption,appearance of new tooth
+211,Dentures,
+212,Depression,excessive sadness
+213,Diabetes,high blood sugar
+214,Diabetes Mellitus Type 2,elevated blood sugar
+215,Diabetic Ketoacidosis,"DKA, a complication of poorly controlled diabetes"
+216,Diffuse Esophageal Spasm,painful contractions of the esophagus
+217,Benadryl Overdose,diphenhydramine overdose
+218,Diphtheria Infection,bacterial respiratory infection
+219,Discitis,spinal disk inflammation
+220,Dislocation,joint out of place
+221,Dissecting Aortic Aneurysm,tearing and dilation of the aorta
+222,Disseminated Intravascular Coagulation,"DIC, abnormality of blood clotting"
+223,Unisom Overdose,doxylamine overdose
+224,Dressler Syndrome,heart sac inflammation following heart attack or heart surgery
+225,Prescription Drug Overuse,
+226,Drug Overdose,
+227,Drug Reaction,
+228,Dry Air Nasal Irritation,
+229,Dry Socket,pain after tooth removal
+230,Dysfunctional Uterine Bleeding,abnormal vaginal bleeding
+231,E. Coli Infection,"Escherichia coli, bacterial infection"
+232,Ear Laceration,cut on the ear
+233,Ear Swelling,
+234,Eclampsia,hypertensive disorder of pregnancy
+235,Ecstasy,MDMA abuse
+236,Ectopic Pregnancy,tubal pregnancy
+237,Elapid,"Elapid venom/cobra, coral, mamba venom toxicity"
+238,Empyema,collection of pus in chest
+239,Encephalitis,brain infection
+240,Endometrial Cancer,cancer of the lining of the uterus
+241,Endometriosis,uterine tissue outside the uterus
+242,Endometritis,inflammation of the uterus
+244,Enlarged Lymph Nodes,lymphadenopathy
+245,Entamoeba Histolytica Infection,ameba infection/Infection due to Entamoeba histolytica
+246,Hypothermia,extreme cold exposure
+247,Hyperthermia,extreme heat exposure
+248,Epidermal Cyst,
+249,Epididymitis,Inflammation of testicular tubes
+250,Epidural Abscess,brain or spine pus collection
+251,Epidural Hematoma,bleeding around brain or spine
+252,Epiglottitis Inflammation,severe throat inflammation
+253,Epistaxis,nose bleed
+255,Erythrasma,chronic bacterial skin infection
+256,Esophageal Achalasia,swallowing disease
+257,Esophageal Cancer,tumor
+258,Esophageal Cyst,
+259,Esophageal Foreign Body,
+260,Esophageal Rupture,tear in esophagus
+261,Esophageal Spasm,painful muscle contraction
+262,Esophageal Stricture,narrowing of the esophagus
+263,Esophageal Varices,dilation of esophageal veins
+264,Esophageal Web,"Schatzki's ring, constriction of esophagus"
+265,Esophagitis,esophageal inflammation
+266,Essential Hypertension,high blood pressure
+267,Estrogen Withdrawal,female hormone
+269,Extremity Trauma,leg or arm injury
+270,Eye Trauma,injury
+271,Eyelid Laceration,skin cut
+272,Eyelid Swelling,
+273,Facial Laceration,skin cut
+274,Facial Trauma,facial injury
+275,Facial Swelling,
+276,Fallen Arches,"flat feet, pes planus"
+277,False Pregnancy,
+278,Familial Cold Urticaria,cold-related hives
+279,Fat Embolism,blood clot from fat
+280,Febrile,fever illness
+281,Febrile Seizure,convulsion in child with a fever
+282,Fecal Impaction,rectal blockage from stool
+284,Femoral Artery Aneurysm,dilation of leg artery
+285,Femoral Hernia,groin hernia
+286,Fetal Alcohol Syndrome,
+287,Fever,elevated temperature
+289,Fibrocystic Breasts,breast lumpiness
+290,Fibroid,uterine muscle tumor
+291,Fibromyalgia,chronic pain disorder
+292,Filariasis,elephantiasis
+293,Finger Laceration,skin cut
+294,Finger Pulp Infection,felon
+295,Finger Swelling,
+296,Foot Laceration,skin cut
+297,Foot Swelling,
+298,Foreign Body,object originating outside the body
+300,Foreign Body in the Eye,
+302,Fracture,broken bone
+303,Functional Disorders,psychogenic illness
+304,Fungal Infections,
+305,Bacterial Vaginosis,"BV, garnerella vaginalis"
+306,Gastric Ulcer,stomach ulcer
+307,Gastritis,stomach inflammation
+308,Gastroenteritis,intestinal infection
+309,Gastroesophageal Reflux,"GERD, heartburn"
+310,Gastrointestinal Bleeding,"stomach, intestine bleeding"
+313,Genital Herpes,HSV type 2 infection
+314,Genital Warts,"HPV, Human papillomavirus infection"
+315,Gestational Diabetes,diabetes during pregnancy
+316,Gestational Hypertension,high blood pressure in pregnancy
+317,Giardiasis,giardia infection
+318,Gingivitis,inflammation of the gums
+319,Glaucoma,elevated eye pressure
+320,Goiter,enlarged thyroid
+321,Gout,uric acid crystals in the joint causing inflammation
+322,Guillain Barre Syndrome,ascending muscle weakness
+323,Bunion of Big Toe,hallux valgus
+324,Hammer Toes,toe deformity
+325,Hand Laceration,skin cut
+326,Hand Swelling,
+327,Hand Foot and Mouth Disease,Coxsackie virus
+328,Hantavirus Infection,"rare, serious viral infection"
+329,Head Injury,
+330,Head Trauma,
+331,Headache,
+332,Hearing Loss,
+334,Heat Cramps,
+335,Heat Exhaustion,
+336,Heat Rash,
+337,Heat Stroke,
+338,Hematocele,collection of blood around testicle
+339,Hematoma,collection of blood
+340,Hemophilia,inherited bleeding disorder
+341,Hemoptysis,coughing blood
+342,Hemorrhage of Pregnancy,vaginal bleeding during pregnancy
+343,Hemorrhoid,enlarged rectal veins
+344,Hemotympanum,blood behind ear drum
+345,Henoch-Schonlein Purpura,blood vessel inflammation
+346,Hepatic Abscess,collection of pus in the liver
+347,Hepatitis,liver inflammation
+348,Hereditary Hemorrhagic Telangiectasia,Osler Weber Rendu syndrome
+349,Hernia,
+350,Herniated Disc,"slipped disc, ruptured disc"
+351,Herpes Simplex Infection,viral infection
+352,Herpes Stomatitis,viral mouth infection
+353,Herpes Vulvovaginitis,viral infection of the vagina/Herpesviral vulvovaginitis
+354,Hiatal Hernia,stomach pushes through diaphragm
+356,Hip Fracture,broken hip
+358,Hordeolum,stye of eye
+360,Humerus Fracture,broken upper arm
+361,Hydrocele,fluid collection near the testicle
+362,Hyperemesis Gravidarum,severe vomiting in pregnancy
+363,Hyperkalemia,elevated potassium level
+364,Hypertension,high blood pressure
+365,Hypertensive Emergency,severely high blood pressure
+367,Hyperthyroidism,elevated thyroid hormone
+368,Hypertrophic Cardiomyopathy,thickened heart muscle
+369,Hyperventilation,rapid breathing
+370,Hyphema,traumatic blood in eye
+371,Hypocalcemia,low blood calcium
+372,Hypoglycemia,low blood sugar
+373,Hypokalemia,low blood potassium
+374,Hypokalemic Periodic Paralysis,inherited muscle weakness and low potassium
+375,Hyponatremia,low blood sodium
+376,Hypotension,low blood pressure
+377,Hypothyroidism,low thyroid hormone
+378,Hypoxia,lack of oxygen
+379,Nonsteroidal Anti-inflammatory Drug Overdose,"Motrin, Advil"
+381,Impacted Tooth,tooth that doesn't erupt
+382,Impingement Syndrome of Shoulder,"bone rubs again tendon, bursa"
+383,Infection,
+384,Infectious Mononucleosis,"Epstein Barr virus, ""Mono"""
+386,Inflammatory Conditions,
+387,Influenza,seasonal flu
+388,Inguinal Hernia,groin hernia
+389,Inhalants Abuse,huffing
+391,Insulin Overdose,
+392,Interstitial Cystitis,bladder inflammation
+393,Intestinal Ischemia,decreased intestinal blood flow
+394,Intestinal Volvulus,twisting of intestine
+395,Intracranial Hemorrhage,bleeding in brain
+396,Intrahepatic Cholestasis of Pregnancy,liver disorder in pregnancy
+398,Intravenous Drug Abuse,IVDA
+399,Intussusception,telescoping intestine
+400,Iron Overdose,
+401,Irritable Bowel Syndrome,"IBS, chronic intestinal pain and cramping"
+402,Jet Lag,
+403,Kaposi Sarcoma,type of cancer
+404,Kawasaki Disease,pediatric blood vessel disease
+405,Keratitis,inflammation of cornea
+406,Kidney Cancer,tumor
+407,Knee Laceration,skin cut
+408,Knee Swelling,
+409,Labyrinthitis,dizziness and vertigo
+410,Laceration,skin cut
+411,Bowel Obstruction,intestinal blockage
+412,Laryngeal Carcinoma,throat cancer
+413,Laryngitis Inflammation,voice box inflammation
+414,Tennis Elbow,lateral epicondylitis
+415,Laxative Abuse,
+416,Lead Overdose,lead poisoning
+417,Lead Poisoning,toxicity
+418,Leg Laceration,skin cut
+419,Leg Swelling,leg edema
+420,Legg Calve Perthes Disease,childhood hip condition
+421,Legionellosis,Legionnaires' disease
+422,Leishmaniasis,"parasitic infection, kala azar"
+423,Leptospirosis,bacterial infection
+424,Leukemia,blood cell cancer
+425,Lichen Planus,chronic skin inflammation
+426,Ligament Sprain,connection between two bones
+427,Ligament Tear,connection between two bones
+428,Limb Ischemia,decreased blood flow
+429,Lip Laceration,skin cut
+430,Lip Swelling,
+431,Lipoma,benign fatty tumor
+432,Liver Abscess,collection of pus
+433,Liver Cancer,tumor
+434,Low Blood Pressure,hypotension
+436,Low Platelets,thrombocytopenia
+437,Ludwig’s Angina,severe infection in the floor of the mouth and neck
+439,Lung Abscess,collection of pus
+440,Lung Cancer,tumor
+441,Lupus,"systemic lupus erythematosus, SLE"
+442,Lyme Disease,bacterial infection from ticks
+443,Lymphangitis,lymph tissue inflammation
+444,Magic Mushroom Ingestion,psilocybin
+445,Major Depressive Disorder,severe depression
+446,Malabsorption Syndrome,abnormal intestinal digestion
+447,Malaria,mosquito transmitted illness
+448,Malignant Hyperthermia,rare temperature abnormality
+449,Mallet Finger,finger tendon rupture
+450,Mallory Weiss Syndrome,esophageal tear
+451,Malnutrition,
+452,Marijuana Use,
+453,Mastitis,breast infection inflammation
+454,Maxillary Sinus Carcinoma,sinus cancer
+455,Measles,viral disease with typical rash
+456,Meckel's Diverticulum,bulge in small intestine
+458,Mediastinitis,inner chest inflammation
+461,Meniere's Disease,dizziness and vertigo
+462,Meningitis,spinal fluid infection
+463,Meniscus Injury,knee cartilage injury
+464,Menopause,end of menstruation and fertility
+466,Metastatic Neoplasm,cancer spread
+467,Methamphetamine Abuse,
+468,Methyl Alcohol Intoxication,methanol
+469,Migraine,type of headache
+470,Miscarriage,
+471,Mitral Valve Prolapse,abnormal heart valve
+472,Mittelschmerz,ovulation pain
+473,Molar Pregnancy,"gestational trophoblastic disease, pregnancy-related tumor"
+474,Mononucleosis,common viral illness
+475,Mosquito Bite,
+476,Motion Sickness,
+477,Motor Neuron Disease,progressive nerve disorder
+478,Mouth Laceration,mouth cut
+479,Mouth Swelling,
+480,Mouth Trauma,injury
+482,Multiple Pregnancy,"twins, triplets, etc"
+483,Multiple Sclerosis,MS
+484,Mumps,viral infection involving salivary glands
+485,Munchausen Syndrome,fabricated illness
+486,Munchausen Syndrome by Proxy,fabricated illness in a dependent
+488,Myasthenia Gravis,"autoimmune disease of the nerves, muscles"
+490,Mycoplasma Genitalium,sexually transmitted disease
+491,Myelodysplastic Syndrome,bone marrow failure
+492,Myocardial Infarction,heart attack
+493,Myocarditis,heart muscle inflammation
+494,Myopathy,muscle disease
+495,Myositis,muscle inflammation or infection
+497,Nail Avulsion,traumatic removal of nail
+498,Nail Bruise,subungual hematoma
+499,Nail Contusion,swelling of finger and nail
+500,Nail Laceration,nail bed cut
+501,Narcolepsy,uncontrollable sleeping
+502,Narcotic Abuse,"morphine, heroin abuse"
+503,Narcotic Overdose,"morphine, heroin overdose"
+504,Nasal Cancer,tumor
+505,Nasal Fracture,broken nose
+506,Nasal Polyps,growths
+507,Nasal Trauma,nose injury
+508,Nasopharyngeal Carcinoma,tumor
+509,Neck Trauma,injury
+510,Necrotizing Fasciitis,life-threatening infection
+511,Neisseria Gonorrhea Infection,sexually transmitted disease
+512,Neisseria Meningitidis Infection,"Neisseria meningitidis/meningococcus, serious bacterial illness"
+513,Kidney Stone,nephrolithiasis
+514,Neurogenic Bladder,bladder paralysis
+515,Non Venomous Snake Bite,
+516,Normal Menstruation,
+517,Norovirus Infection,"viral diarrhea, Norwalk virus"
+519,Nursemaid's Elbow,radial head subluxation
+520,Obsessive Compulsive Disorder,"OCD, anxiety disorder"
+522,Onchocerciasis,river blindness
+523,Ophthalmoplegia,eye muscle weakness
+524,Optic Neuritis,optic nerve inflammation
+525,Oral Candidiasis,"thrush, oral yeast"
+526,Oral Ulcers,mouth ulcers
+527,Orbital Cellulitis,soft tissue eye infection
+528,Orbital Fracture,broken bone near the eye
+529,Orbital Mass,growth near the eye
+530,Orchitis,inflammation of the testicles
+531,Oropharyngeal Cancer,Mouth Cancer
+532,Osteoarthritis,bone inflammation
+533,Osteochondritis Dissecans,joint disorder
+534,Osteomyelitis,bone infection
+535,Outer Ear Infection,otitis externa
+536,Middle Ear Infection,otitis media
+537,Ototoxicity,ear toxicity
+538,Ovarian Cancer,female organ cancer
+539,Ovarian Cyst,female organ fluid collection
+540,Ovarian Torsion,twisting of the ovary
+541,Overdose,
+542,Overuse Syndrome,injury from repetitive activity
+543,Paget Disease of the Nipple,rare breast cancer
+544,Pancoast Syndrome,apical lung tumor
+545,Pancreatic Cancer,tumor
+546,Pancreatitis,pancreas inflammation
+547,Pancreas Inflammation,"pancreatitis, chronic"
+548,Panic Disorder,
+549,Paralytic Ileus,intestinal paralysis
+550,Parasite Infection,
+551,Parkinson's Disease,movement disorder
+552,Paronychia,infection around the nail
+553,Parotitis,salivary gland inflammation
+554,Patellar Dislocation,knee cap dislocation
+555,Patellar,knee cap tendon rupture
+557,Pelvic Inflammatory Disease,"PID, female reproductive organ infection"
+558,Penis Carcinoma,tumor
+560,Perforated Septum,hole in skin between nostrils
+561,Pericarditis,heart sac inflammation
+562,Periodontitis,gum inflammation
+563,Periorbital Cellulitis,infection around eye
+564,Peripheral Nerve Transection,nerve injury
+565,Peripheral Neuropathy,nerve damage
+566,Peripheral Vascular Disease,blocked blood vessels
+567,Peritonitis,abdominal cavity inflammation
+568,Peritonsillar Abscess,collection of pus around tonsils
+569,Personality Disorder,unhealthy patterns of thinking and behavior
+570,Pesticide Poisoning,organophosphate poisoning
+571,Pharyngeal Pouch,"Zenker's diverticulum, weakening of the esophageal wall"
+572,Pharyngitis,throat infection
+573,Pheochromocytoma,adrenal gland tumor
+574,Phobias,irrational fear
+575,Pickwickian Syndrome,severe obesity
+576,Pituitary Tumor,
+577,Pityriasis Rosea,inflammatory skin rash
+578,Placenta Previa,placenta covers cervix
+579,Placental Abruption,placenta separation
+580,Plague,"bubonic plague, bacteria yersinia infection"
+581,Plantar Fasciitis,inflammation of tissue at the bottom of the foot
+582,Plantar Wart,"human papilloma virus infection, foot warts"
+583,Pleural Effusion,abnormal chest fluid
+584,Pleuritis,"inflammation of the lung's lining, pleurisy"
+585,Pneumonia,lung infection
+586,Pneumothorax,collapse of lung
+587,Poisoning,
+588,Poliomyelitis,polio
+589,Polycystic Kidney Disease,inherited kidney disorder
+590,Polycystic Ovarian Syndrome,"PCOS, female hormonal disorder"
+591,Polycythemia Vera,increased number of red blood cells
+592,Polyphagia,overeating
+593,Post Concussive Syndrome,symptoms after a concussion
+594,Post Nasal Drip,
+595,Post Traumatic Stress Disorder,PTSD
+596,Posterior Inferior Cerebellar Artery Syndrome,stroke syndrome
+597,Postural Hypotension,low blood pressure after standing
+599,Pregnancy,
+600,Premenstrual Syndrome,PMS
+601,Prescription Drug Abuse,
+602,Preseptal Hematoma,blood clot in the nose
+603,Priapism,persistent erection
+604,Primary Affective Disorder,depression
+605,Insomnia,difficulty sleeping
+606,Primary Sclerosing Cholangitis,bile duct disease
+607,Primary Dysmenorrhea,painful menstruation
+608,Prinzmetal Angina,heart artery spasm
+609,Prostate Cancer,male anatomy cancer
+611,Prostatitis,prostate inflammation
+612,Pruritus Ani,anal itching
+613,Pseudogout,calcium deposit arthritis
+614,Puerperal Depression,depression after giving birth
+615,Puerperal Psychosis,loss of contact with reality after birth
+616,Pulmonary Edema,fluid build-up in the lungs
+617,Pulmonary Embolism,blood clot in the lungs
+618,Pulmonary Fibrosis,lung scarring
+619,Pulmonary Hypertension,high blood pressure in the lungs
+620,Pulpitis,dental root inflammation
+621,Puncture Wound,
+622,Puncture Wound of Ankle,
+623,Puncture Wound of Arm,
+624,Puncture Wound of Ear,
+625,Puncture Wound of Eyelid,
+626,Puncture Wound of Face,
+627,Puncture Wound of Finger,
+628,Puncture Wound of Foot,
+629,Puncture Wound of Hand,
+630,Puncture Wound of Knee,
+631,Puncture Wound of Leg,
+632,Puncture Wound of Lip,
+633,Puncture Wound of Mouth,
+634,Puncture Wound of Scalp,
+635,Puncture Wound of Skin,
+636,Puncture Wound of Toe,
+637,Pyelonephritis,kidney infection
+638,Quaternary Syphilis,late stage syphilis
+639,Radial Head Fracture,broken elbow bone
+640,Radiator Fluid,ethylene glycol poisoning
+641,Increased Pressure in the Skull,raised intracranial pressure
+642,Ramsay Hunt Syndrome,viral infection causing facial weakness
+643,Rectal Abscess,collection of pus in the rectum
+644,Rectal Cancer,tumor
+645,Rectal Impaction,collection of pus in the rectum/Fecal impaction of rectum
+646,Rectal Prolapse,rectal protrusion
+647,Rectal Ulcer,
+649,Reiter Syndrome,type of joint inflammation
+650,Renal Arteriovenous Malformation,"AVM, blood vessel abnormality of the kidney"
+651,Renal Artery Stenosis,kidney artery narrowing
+652,Acute Renal Failure,sudden kidney failure
+653,Chronic Renal Failure,ongoing kidney failure
+654,Renal Infarct,kidney damage from an area of blocked blood flow
+655,Renal Trauma,kidney trauma
+656,Renal Vein Thrombosis,kidney vein clot
+657,Respiratory Failure,"breathing failure, ARDS"
+658,Restless Legs Syndrome,nervous system disorder
+659,Retroperitoneal Hemorrhage,flank bleeding
+660,Retropharyngeal Abscess,throat abscess
+661,Rhabdomyolysis,severe muscle breakdown
+662,Rheumatoid Arthritis,type of chronic joint inflammation
+663,Rhinosporidiosis,fungal nasal infection
+664,Rhinovirus Infection,common cold
+665,Rib Fracture,broken bone
+666,Rickettsial Infections,type of bacterial infection
+667,Rotator Cuff Syndrome,shoulder injury
+668,Rotavirus Infection,intestinal viral infection
+669,Isopropyl Alcohol Overdose,rubbing acohol overdose
+670,Salmonella Infection,common bacterial intestinal infection
+671,Severe Acute Respiratory Syndrome,"SARS, serious viral pneumonia"
+672,Scalp Laceration,scalp cut
+673,Scalp Swelling,
+674,Scarlet Fever,post strep inflammation
+675,Schistosomiasis,parasite infection
+676,Schizoaffective Disorder,features of schizophrenia and mood disorder
+677,Schizophrenia,chronic impaired reality perception
+678,Sciatica,lower back nerve irritation
+679,Sclerosing Cholangitis,progressive bile duct disease 
+680,Scoliosis,crooked spine
+681,Scorpion Sting,
+682,Scrotal Hematoma,collection of blood in skin around testicles
+683,Seasonal Affective Disorder,intermittent seasonal depression
+684,Sebaceous Cyst,sac under the skin
+685,Secondary Dysmenorrhea,painful menstruation
+686,Self-inflicted Injury,
+687,Sepsis,serious blood infection
+688,Septal Perforation,hole in the skin between nostrils
+689,Septic Arthritis,joint infection
+690,Septic Hip,infected hip joint
+691,Septic Knee Joint,infected knee joint
+692,Septic Shock,low blood pressure from serious blood infection
+693,Serotonin Syndrome,severe medication reaction
+694,Serum Sickness,abnormal immune system response
+696,Sexually Transmitted Disease,STD
+697,Shigellosis,bacterial intestinal infection
+698,Shingles,herpes zoster
+699,Shock,severe low blood pressure
+700,Shoulder Joint Dislocation,dislocated shoulder
+701,Sialolithiasis,salivary gland stone
+702,Sickle Cell Crisis,complication of sickle cell disease
+703,Sickle Cell Disease,disease of red blood cells
+704,Sinusitis,sinus infection
+706,Sjogren's Syndrome,dry eyes and mouth
+707,Skin Abscess,collection of pus
+708,Skin Laceration,cut skin
+709,Skin Swelling,
+710,Skull Fracture,broken bone
+711,Slipped Capital Femoral Epiphysis,adolescent hip disorder
+712,Small Bowel Lymphoma,intestinal lymph node cancer
+714,Smallpox,Variola virus infection
+715,Smoke Inhalation,
+716,Smoking,tobacco use disorder
+717,Social Anxiety Disorder,social phobia
+718,Spermatocele,sperm-filled epididymal cyst
+719,Insect Bite,
+720,Spinal Abscess,collection of spinal pus
+721,Acute Spinal Cord Injury,
+722,Splenic Infarction,death of spleen
+723,Spondylolisthesis,slipped back bone
+724,Sprain,"stretched, torn ligament"
+725,Squamous Cell Cancer,common skin cancer
+726,Steroid Abuse,
+727,Steroid Use,
+728,Steven Johnson Syndrome,"rare, serious skin disorder"
+729,Muscle Strain,pulled muscle
+730,Strangulation of Genitalia,constriction of genital blood supply
+731,Streptococcus Infection,strep throat bacteria
+732,Stress,
+733,Stress Headache,tension headache
+734,Stress Incontinence,unintentional urination with cough or sneeze
+735,Subarachnoid Hemorrhage,brain bleeding
+736,Subdural Hematoma,bleeding on brain
+737,Substance Abuse,
+738,Subungual Hematoma,blood under nail
+739,Suicide,
+740,Supracondylar Fracture,elbow fracture
+741,Swimmer's Itch,cercarial dermatitis
+742,Symptomatic Dermatographism,exaggerated skin response to pressure
+743,Syphilis,treponema pallidum
+744,Systemic Sclerosis,"scleroderma, progressive soft tissue hardening"
+746,Tarantula bite,Tarantula Venoms
+747,Tarsal Tunnel Syndrome,foot nerve damage
+748,Temporal Arteritis,inflamed scalp artery
+749,Temporal Lobe Epilepsy,non-convulsive seizure
+750,Temporomandibular Joint Syndrome,"TMJ, jaw joint pain"
+751,Tendonitis,tendon inflammation
+752,Tenosynovitis,tendon sheath inflammation
+753,Tension Pneumothorax,dangerous lung collapse
+754,Testicular Cancer,tumor
+755,Testicular Torsion,twisting of testicle
+756,Third Cranial Nerve Disorder,disorder of eye movement
+757,Thoracic Outlet Syndrome,"nerve, blood vessel compression"
+758,Thrombocytopenia,low platelet count
+759,Thyroglossal Duct Cyst,neck cyst
+760,Thyroiditis,thyroid inflammation
+761,Tick Paralysis,toxin from ticks
+762,Tick Borne Encephalitis,brain infection
+763,Tinea,fungal skin infection
+764,Laceration of Toe,cut skin
+765,Toe Swelling,
+766,Tongue Cancer,tumor
+767,Tonsillar Cancer,tongue tumor
+768,Tonsillitis,tonsil infection
+770,Toothache,
+771,Spasmodic Torticollis,neck muscle spasm
+772,Preeclampsia,toxemia of pregnancy
+773,Toxic Shock Syndrome,life-threatening bacterial infection complication
+774,Toxoplasma Infection,Toxoplasmosis/parasite infection
+775,Transient Ischemic Attack,"TIA, reversible stroke"
+776,Transverse Myelitis,spinal cord inflammation
+777,Trauma,
+778,Traumatic Nerve Injury,
+780,Trichinella Spiralis Infection,"trichinosis, parasitic infection from undercooked pork"
+781,Trichomonas Vaginalis Infection,vaginal infection
+782,Trigeminal Neuralgia,facial nerve pain
+783,Tuberculosis Infection,TB
+784,Tubo Ovarian Abscess,pelvic abscess
+785,Ear Drum Rupture,tympanic membrane rupture
+786,Typhoid Fever,salmonella typhi infection from contaminated food or water
+788,Ulcerative Colitis,large intestine inflammation
+789,Unstable Angina,pre heart attack chest pain
+790,Upper Respiratory Tract Infection,"URI, common cold"
+791,Ureaplasma Urealyticum Infection,genital infection
+792,Urethritis,infection of urethra
+793,Bladder Infection,"cystitis, UTI, urinary tract infection"
+794,Urinary Tract Malformation,
+795,Urine Retention,inability to urinate
+796,Urticaria,Hives
+797,Uterine Prolapse,uterine vaginal protrusion
+798,Uterine Rupture,uterine tear during childbirth
+799,Uveitis,"iritis, eye inflammation"
+800,Vaccination,
+801,Vaginal Atrophy,atrophic vaginitis
+802,Vaginal Cancer,tumor
+803,Vaginal Foreign Body,
+805,Vaginitis,vaginal infection inflammation
+807,Varicocele,testicular vein enlargement
+808,Blood Vessel Headache,familial basilar artery migraine headache
+809,Vascular Insufficiency Due to Peripheral Artery Disease,"PAD, claudication, inadequate blood flow"
+810,Vasculitis,inflammation of the arteries
+811,Vasovagal Syncope,fainting
+812,Vertebral Artery Dissection,neck artery tear
+813,Vertebral Fracture,broken back or neck bone
+814,Vertebral-basilar Artery Insufficiency,inadequate blood flow to the back of the brainvertebro-basilar insufficiency
+815,Vertebral-basilar Stroke,stroke in the back of the brainVertebro basilar insufficiency
+816,Vertigo,spinning sensation
+817,Vesicovaginal Fistula,connection between the bladder and vagina
+818,Vestibular Neuronitis,"labyrinthitis, vertigo"
+819,Vibrio Parahaemolyticus Infection,bacterial infection from shellfish
+820,Rattlesnake Bite,pit viper bite
+821,Viral Hemorrhagic Fevers,"Ebola, Lassa"
+822,Viral Infections,
+823,Vitiligo,loss of skin pigment
+824,Vocal Cord Nodule,growth on the vocal cords
+825,Vocal Cord Paralysis,voice box weakness
+826,Volvulus,twisted intestine
+827,Vulvar Squamous Cell Carcinoma,skin cancer on female genitalia
+828,Waldenstrom Macroglobulinemia,blood cell disease
+829,Warfarin Overdose,"Coumadin, Jantoven overdose"
+830,Warfarin Poisoning,Coumadin use
+832,Wegener's Granulomatosis,"granulomatosis with polyangiitis,  blood vessel disease"
+833,West Nile Virus Infection,mosquito-transmitted illness
+834,Whiplash Injury,neck injury
+835,White Coat Hypertension,elevated blood pressure at doctor's office
+836,Whooping Cough,pertussis
+837,Windshield Wiper Fluid,Methanol poisoning
+838,Wolff-Parkinson-White Syndrome,"WPW, additional electrical pathway in the heart"
+841,Yellow Fever,viral hemorrhagic fever
+842,Zenker's Diverticulum,"pharyngeal pouch, weakening of the esophageal wall"
+848,Seizure,abnormal brain electrical activity
+849,Pilonidal Cyst,fluid filled sac on tailbone
+851,Essential Tremor,abnormal rhythmic shaking
+852,Lymphoma,lymph node cancer
+853,Osgood Schlatter Disease,painful shinbone inflammation
+854,Nasal Foreign Body,unnatural object in the nose
+855,Respiratory Syncytial Virus,"RSV, pediatric respiratory infection"
+856,Hodgkin's Disease,cancer of the lymph system
+857,Autism Spectrum Disorder,ASD
+858,Polymyalgia Rheumatica,"PMR, muscle and joint disorder"
+859,Swine Flu,H1N1 Influenza
+860,Fifth Disease,"erythema infectiosum, viral illness"
+861,Sagittal Sinus Thrombosis,venous blood clot in the brain
+862,Cervical Spine Stenosis,narrowing of spinal canal
+863,Cervical Myelopathy,spinal cord compression
+864,Spinal Cord Tumor,
+865,Brachial Plexus Injury,shoulder nerve injury
+866,Brain Arteriovenous Malformation,"blood vessel abnormality in the brain, AVM/Arteriovenous malformation of brain"
+867,Carotid Artery Stenosis,neck artery narrowing
+868,Meningioma,brain tumor
+869,Astrocytoma,brain tumor
+870,Hydrocephalus,brain fluid build-up
+872,Central Cord Syndrome,traumatic spine injury
+873,Cerebral Aneurysm,brain artery dilation
+874,Pseudotumor Cerebri,increased pressure in the skull
+875,HIV Infection,"Human Immunodeficiency Virus, Acquired Immune Deficiency Syndrome/Human immunodeficiency virus [HIV] disease"
+876,Endocarditis,heart valve infection
+877,Acne,pimples
+878,ADHD,Attention deficit hyperactivity disorder
+879,Allergic Conjunctivitis,allergic reaction in the eye
+881,Teeth Grinding,bruxism
+882,Chemical Burn,
+883,Chicken Pox,varicella virus
+884,Cradle Cap,infant scalp rash
+885,Croup,upper airway inflammation
+887,Dyslexia,Reading disorder
+890,Psoriasis,scaly skin disease
+891,Asperger's Syndrome,autism spectrum disorder
+892,Methicillin-resistant Staphylococcus Aureus,"MRSA, type of bacteria"
+893,Staphylococcus Aureus,type of bacteria
+894,Failure to Thrive - Child,Failure to thrive-childFailure to thrive (child)
+895,Hemochromatosis,excess iron disorder
+896,Impetigo,bacterial skin infection
+897,Inhaled Foreign Body,in respiratory tract
+898,Jaundice,yellow skin color
+899,Keratosis Pilaris,common skin condition
+900,Head Lice,
+901,Body Lice,
+902,Pubic Lice,
+903,Wilson's Disease,copper accumulation in tissues
+904,Rocky Mountain Spotted Fever,bacterial infection spread by ticks
+905,Erysipelas,bacterial skin infection
+906,Cat Scratch Fever,bacterial infection after cat scratch
+907,Coccidiomycosis,"valley fever, fungal infection"
+908,Meconium Aspiration,newborn respiratory problem
+909,Neurofibromatosis,inherited nerve tumors
+910,Night Terrors,nightmares
+911,Pinworms,common intestinal worm
+912,Reyes Syndrome,rare liver and brain swelling
+913,Mongolian Spots,blue birthmark
+914,Rheumatic Fever,complication of strep infection
+915,Rhinitis,nasal inflammation
+916,Tinea Capitis,Ringworm of the scalp
+917,Tinea Corporis,Ringworm of the body
+918,Rubella,German measles
+920,Scabies,skin disease caused by mites
+921,Atrial Flutter,irregular heart rate
+922,Pepto Bismol or Kaopectate Ingestion,bismuth
+923,Long QT Syndrome,inherited heart condition
+924,Coronary Artery Anomaly,heart artery malformation
+925,Stroke,"CVA, cerebrovascular accident"
+926,Subconjunctival Hemorrhage,blood covering white part of the eye
+927,Sleep Apnea,chronic sleep disruption
+929,Myotonia,impaired muscle relaxation
+930,Carbuncle,
+931,Melanoma,skin cancer
+932,Cat Bite,
+933,Dog Bite,
+934,Muscle Spasm,charley horse
+935,Hyperosmolar Hyperglycemic State,severely elevated glucose level
+937,Tetanus,lockjaw
+938,Tourette Syndrome,"repetitive involuntary movements, vocalizations"
+939,Umbilical Hernia,belly button hernia
+940,Common Warts,
+941,Transient Global Amnesia,sudden period of short-term memory loss
+943,Osteoporosis,extremely thin bone
+944,Bird Flu,avian influenza
+946,Cubital Tunnel Syndrome,nerve compression in the elbow
+947,Foot Fracture,broken foot
+948,Ankle Fracture,broken ankle
+949,Histoplasmosis,fungal infection
+950,Tick Bite,
+951,Q Fever,flu-like bacterial illness
+952,Broken Heart Syndrome,Takotsubo cardiomyopathy
+953,Whipple's Disease,rare bacterial infection of the small intestine
+954,Near Drowning,
+955,Clostridium Difficile,C. Diff
+956,Sea Lice Bite,
+958,Ascites,fluid in the abdomen
+960,Sunburn,
+961,Sun Poisoning,
+962,Cystic Fibrosis,"inherited disease of lungs, digestive system"
+963,Sever's Disease,"calcaneal apophysitis, common cause of heel pain"
+964,Panhypopituitarism,pituitary gland malfunction
+965,Down Syndrome,common genetic disorder
+966,Hair Loss,alopecia
+967,Vaginal Yeast,fungal infection
+968,Rickets,childhood bone disease
+969,Alzheimer's Disease,dementia
+971,Human Papillomavirus Infection,HPV
+972,Erectile Dysfunction,ED
+973,Congenital Heart Disease,heart defect at birth
+974,Lumbar Spinal Stenosis,spinal cord compression
+975,Stomach Cancer,gastric cancer
+977,Moles,nevi
+978,Idiopathic Thrombocytopenia Purpura,"ITP, low platelets"
+979,Thrombotic Thrombocytopenia Purpura,"TTP, rare blood disorder/Thrombotic thrombocytopenic purpura"
+981,Ventricular Tachycardia,"VT, dangerous irregular heart beat"
+982,Cardiac Arrest,heart stops
+983,Frostbite,tissue damage from cold
+984,Trench Foot,immersion foot
+985,Skin Blood Vessel Damage,"Chilblains, pernio"
+986,Gangrene,death of body tissue
+987,Food Poisoning,
+988,Lactose Intolerance,
+989,Raynaud's Disease,blood vessel constriction
+990,Muscular Dystrophy,inherited muscle disease
+991,Diverticulosis,weakening of the large intestine wall
+992,Graves' Disease,overproduction of thyroid hormone
+993,Emphysema,"COPD, lung disease"
+994,Amyotrophic Lateral Sclerosis,"ALS, Lou Gehrig's disease"
+997,Sarcoidosis,inflammatory disease
+999,Folliculitis,hair follicle infection
+1000,Boil,pus-filled lump
+1001,Angioedema,"swelling of skin, lips, eyes"
+1002,Hot Tub Follicullitis,hair follicle infection/Pustular folliculitis
+1003,Detached Retina,retinal detachment
+1004,Posterior Vitreous Detachment,common eye abnormality
+1007,Thyroid Cancer,neck gland cancer
+1008,Coronary Artery Disease,"CAD, heart disease"
+1009,Double Diabetes,hybrid diabetes
+1011,Birth Control Pill Use,
+1012,Toe Fracture,
+1013,Finger Fracture,broken finger
+1014,Hand Fracture,broken hand
+1015,Scaphoid Fracture,broken hand bone
+1016,Clavicle Fracture,broken collar bone
+1017,Valvular Heart Disease,abnormal heart valves
+1018,Aortic Regurgitation,leaking heart valve
+1019,Mitral Stenosis,tight heart valve
+1020,Mitral Regurgitation,leaking heart valve
+1022,Cataracts,clouding of the eye lens
+1024,Thalassemia,"Mediterranean anemia, inherited blood disorder"
+1025,Iron Deficiency Anemia,low red blood cell count
+1026,Hemolytic Anemia,red blood cell destruction disorder
+1027,Pterygium,growth on the eye
+1029,Pernicious Anemia,vitamin deficiency blood disorder
+1030,Addison's Disease,adrenal insufficiency
+1032,Heart Attack,"acute myocardial infarction, AMI"
+1033,Scleroderma,progressive hardening of soft tissue
+1034,Medication Reaction,
+1035,Myxedema Coma,severely low thyroid hormone
+1036,Bed Bugs,
+1037,Athlete's Foot,tinea pedis
+1038,Early Menopause,premature ovarian failure
+1039,Carcinoid Syndrome,"flushing, diarrhea"
+1040,Mayer-Rokitansky-Küster-Hauser Syndrom,"MRKH, inherited vaginal abnormality"
+1041,Obesity,
+1043,Hyperparathyroidism,elevated parathyroid hormone levels
+1044,Cauliflower Ear,wrestlers ear
+1045,Muscle Rear,
+1046,Gastroparesis,stomach muscle malfunction
+1047,Scalded Skin Syndrome,blistering skin infection
+1049,Colon Polyps,large intestine tumors
+1050,Loffler's Syndrome,"pulmonary eosinophilia, lung inflammation"
+1051,Methemoglobinemia,blood disorder
+1052,Amaurosis Fugax,momentary vision loss in one eye
+1053,Tendon Laceration,tendon cut
+1054,Foreign Body in a Wound,
+1055,Wound Infection,cut infection
+1056,Blood Vessel Injury,
+1057,Hidradenitis Suppurativa,chronic collections of pus
+1059,Spleen Injury,splenic rupture
+1060,Liver Injury,liver trauma
+1061,Radiation Exposure,radiation sickness
+1062,Marfan Syndrome,rare inherited disease
+1063,Tape Worm Infection,
+1064,Teething,
+1065,Rabies,deadly viral illness transmitted by animals
+1066,Toxic Megacolon,rapid dilation of the colon
+1067,Basal Cell Carcinoma,skin cancer
+1068,Skin Tags,acrochordons
+1069,Pneumocystis Pneumonia,"PCP, fungal lung infection"
+1073,Compression Fracture,broken spinal bone
+1075,Hypersensitivity Pneumonitis,allergic lung disease
+1076,Mucormycosis,fungal infection
+1077,Interstitial Lung Disease,chronic scarring of the lung
+1078,Flea Bite,
+1079,Ingrown Nail,onychocryptosis
+1080,Porphyria,"rare disorder of skin, nervous system"
+1081,Gilbert's Disease,liver abnormality
+1082,Goodpasture Syndrome,disease of kidneys and lungs
+1083,Newborn Jaundice,newborn skin discoloration
+1084,Ankle Sprain,
+1090,Chikungunya,viral illness from mosquitoes
+1091,Japanese Encephalitis,viral brain infection
+1093,Brucellosis,bacterial infection spread from animals
+1095,Post Herpetic Neuralgia,nerve pain after shingles
+1096,Psoriatic Arthritis,joint pain and stiffness
+1097,Flat Feet,pes planus
+1098,Heel Spur,
+1099,Lewy Body Dementia,common type of dementia
+1100,Facial Nerve Paralysis,
+1102,Macular Degeneration,chronic eye disease
+1103,Pyomyositis,muscle infection
+1106,Synovitis,inflammation of joint lining
+1108,Diabetic Retinopathy,diabetic eye disease
+1111,Aspiration Pneumonia,lung inflammation or infection
+1112,Hepatic Encephalopathy,confusion from liver failure
+1113,Pemphigus,rare skin disorder
+1114,Diabetes Insipidus,excessive water loss from the kidneys
+1115,Ventral Hernia,bulging of the abdominal wall
+1116,Listeria,serious bacterial illness
+1118,Shin Splints,tibial stress syndrome
+1119,Sarcoma,soft tissue cancer
+1121,Bone Cancer,bone tumor
+1124,Mastocytosis,"urticaria pigmentosa, skin disease"
+1125,Jellyfish Stings,
+1129,Hemolytic Uremic Syndrome,"HUS, red blood cell destruction, kidney disease"
+1132,Triangular Fibrocartilage Complex Injury,wrist injury
+1133,Multiple Myeloma,blood cancer
+1134,Miller Fisher Syndrome,rare nerve disease
+1135,Aponeurotic Ptosis,age-related drooping eyelid
+1136,Complex Migraine,migraine with neurologic changes
+1138,Reflex Sympathetic Dystrophy,complex pain syndrome
+1140,Golfer's Elbow,medial epicondylitis of elbow
+1141,Small Cell Lung Cancer,
+1144,Bullous Myringitis,middle ear infection
+1145,Chronic Venous Insufficiency,weakened leg veins
+1147,Diabetic Neuropathy,nerve damage
+1148,Diabetic Nephropathy,diabetes and kidney disease
+1151,Dysthymia,"depression, dysthymic disorder"
+1154,Lymphedema,lymphatic obstruction
+1155,Tension Headache,stress headache
+1157,Pneumoconiosis,lung disease
+1166,Varicose Veins,
+1169,Diabetes Mellitus Type 1,elevated blood sugar
+1170,Viral Exanthem,rash from viral infection
+1177,Foreign Body in Ear,
+1184,Actinic Keratosis,"AK, skin growth"
+1186,Molluscum Contagiosum,
+1196,Eustachian Tube Dysfunction,inner ear tube
+1199,Phimosis,
+1201,Lumbar Spondylosis,spine arthritis
+1211,Muscle and Ligament Inflammation,enthesopathy
+1245,Male Pattern Hair Loss,hereditary-patterned baldness/Androgenic alopecia
+1247,Male Infertility,
+1249,Scleritis,inflammation of the eye
+1251,Abdominal Adhesions,scar tissue
+1253,Chondromalacia,cartilage damage
+1255,Focal Seizure,partial seizure
+1257,Generalized Seizure Disorder,generalized epilepsy
+1259,Peyronie's Disease,abnormal curvature of the penis
+1261,Mycoplasma Infection,bacteria
+1263,Duodenal Cancer,small intestine
+1265,Small Bowel Cancer,small intestine
+1267,Gallbladder Cancer,
+1269,Essential Thrombocythemia,excessive blood platelets
+1271,Thyroid Cyst,
+1273,Herpangina,mouth blisters
+1275,Ewing's Sarcoma,cancer
+1277,Extragonadal Germ Cell Tumors,
+1279,Fallopian Tube Cancer,
+1281,Familial Dysautonomia,genetic disorder
+1283,Farsightedness,hyperopia/hypermetropia
+1285,Food Allergy,
+1287,Foot Sprain,
+1289,Foot Ulcer,
+1291,Fragile X Syndrome,genetic disorder
+1293,Friedreich's Ataxia,genetic disorder
+1295,Gallbladder and Bile Duct Cancer,Gallbladder cancer/bile duct cancer
+1297,Glomerulonephritis,kidney disease
+1299,Graves’ Eye Disease,Graves’ ophthalmopathy
+1301,Head Injury in Children,Non-accidental traumatic head injury to child
+1303,Hemorrhagic Stroke,"CVA, cerebrovascular accident"
+1305,Hepatitis A,
+1307,Hirsutism,excessive hair growth
+1309,Huntington Disease,chorea
+1311,Hyperkeratosis,skin thickening
+1315,Lacunar Stroke,
+1317,Langerhans Cell Histiocytosis,Histiocytosis X
+1319,Large Cell Lung Cancer,
+1321,Malignant Mesothelioma,
+1323,Melasma,choloasma
+1325,Morton's Neuroma,
+1329,Neuroblastoma,
+1331,Paget Disease of Bone,paget's disease of the bone
+1333,Parathyroid Cancer,
+1335,Phenylketonuria,PKU
+1337,Paraphimosis,
+1339,Polyarteritis Nodosa,PAN
+1345,Post-polio Syndrome,
+1347,Posterior Cruciate Ligament Injuries,PCL injury/Rupture of posterior cruciate ligament/Sprain of posterior cruciate ligament of knee
+1349,Presbyopia,aging vision
+1351,Rectocele,
+1353,Retinitis Pigmentosa,
+1355,Retinoblastoma,pediatric eye cancer
+1357,Retrobulbar Neuritis,
+1359,Shoulder Sprain,
+1361,Squamous Cell Lung Cancer,
+1363,Takayasu's Arteritis,Giant cell arteritis of the young
+1365,Tay-Sachs Disease,
+1367,Tear Duct Infection,Dacryocystitis
+1369,Thrombophlebitis,superficial
+1373,Traumatic Hip Dislocation,traumatic dislocation of hip
+1375,Traveler's Diarrhea,Montezuma's revenge
+1379,Tropical Sprue,
+1381,Wilms' Tumor,
+1383,Wrist Sprain,
+1385,Yaws,
+1387,Amyloidosis,
+1389,Arnold Chiari Malformation,
+1393,Broken Jaw,mandible fracture
+1395,Conversion Disorder,
+1397,Strabismus,crossed eyes
+1399,Decompression Sickness,"bends, caisson's disease"
+1403,Delusional Disorder,
+1405,Dermatofibroma,
+1409,Fibromuscular Dysplasia,FMD
+1415,Hypoparathyroidism,
+1417,Ichthyosis,
+1421,Keloid,overgrown scar
+1423,Broken Leg,leg fracture
+1425,Prediabetes,high blood sugar
+1429,Subluxation,
+1431,Vitamin D Deficiency,
+1433,Supraventricular Tachycardia,SVT
+1435,Traumatic Brain Injury,
+1437,Testicular Hypofunction,
+1439,Von Willebrand's Disease,
+1441,Lymphadenitis,
+1443,Drug Withdrawal Syndrome,
+1445,Stuttering,
+1449,Tic Disorder,
+1451,Conduct Disorder,
+1453,Charcot-Marie-Tooth Disease,
+1455,Neutropenia,
+1457,Greater Trochanteric Bursitis,hip bursitis
+1461,Turner Syndrome,gonadal dysgenesis
+1463,Pancytopenia,
+1467,Cerebellar Ataxia,
+1469,Complex Partial Seizures,psychomotor epilepsy
+1471,Meralgia Paresthetica,
+1473,Retinopathy,
+1475,Corneal Ulcer,
+1479,Dacryostenosis,blocked duct tears
+1483,Aphakia,
+1487,Bacterial Tracheitis,
+1489,Trigger Finger,
+1493,Glossitis,
+1495,Anal Fistula,
+1497,Urethral Stricture,
+1501,Pemphigoid,
+1503,Scar,
+1505,Finger Amputation,
+1509,Hydronephrosis,
+1511,Night Blindness,nyctalopia
+1513,Scurvy,vitamin C deficiency
+1515,Beriberi,thiamine/vitamin B1 deficiency
+1517,Cutaneous T-cell Lymphoma,
+1519,Cardiomegaly,enlarged heart
+1521,Developmental Delay,
+1523,Breast Cyst,
+1525,Ductal Carcinoma in Situ,"DCIS, breast cancer"
+1527,Missed Abortion,
+1529,Triple Negative Breast Cancer,
+1531,Invasive Ductal Carcinoma,
+1533,Invasive Lobular Carcinoma,
+1535,Dystonia,
+1537,Failure to Thrive - Adult,failure to thrive
